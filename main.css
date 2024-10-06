@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: Arial, sans-serif; 
     background-color: #f4f4f4;
 }
 
@@ -37,4 +37,11 @@ body {
 
 .nav-button:hover {
     background-color: #007BFF;
+}
+p1{
+    padding:;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: black;
+    p.solid {border-style: solid;}
 }
